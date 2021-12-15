@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1200"
+   height="600"
+   viewBox="0 0 317.49999 158.75"
+   version="1.1"
+   id="svg4216"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="cover-kofi.svg"
+   inkscape:export-filename="C:\Users\endyjasmi\Desktop\cover-kofi.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4218"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.73406285"
+     inkscape:cx="507.44974"
+     inkscape:cy="235.67464"
+     inkscape:window-width="1278"
+     inkscape:window-height="1000"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs4213" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke-width:0.599573"
+       id="rect4242"
+       width="317.5"
+       height="158.75"
+       x="-7.1054274e-15"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       id="g32640">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:25.4px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:-4.7625px;stroke-width:0.264583"
+         x="111.46606"
+         y="83.92511"
+         id="text26120"><tspan
+           sodipodi:role="line"
+           id="tspan26118"
+           style="stroke-width:0.264583"
+           x="111.46606"
+           y="83.92511">RojakDB</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;stroke-width:0.264583"
+         x="103.92699"
+         y="94.026817"
+         id="text28446"><tspan
+           sodipodi:role="line"
+           id="tspan28444"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="103.92699"
+           y="94.026817">A document database for the web.</tspan></text>
+    </g>
+  </g>
+</svg>
